@@ -1,5 +1,3 @@
-Sure, I can provide a detailed example of what your `Root Directory` could look like for the CoinMarketFacts (CMF) project within the AgaTech ecosystem. This includes both the `README.md` and `.gitignore` files.
-
 ### Root Directory
 
 #### 1. `README.md`
