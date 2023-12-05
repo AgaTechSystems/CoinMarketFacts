@@ -1,0 +1,12 @@
+/* src/app/shared/score-display/score-display.component.css */
+
+.score-container {
+    margin-bottom: 10px;
+  }
+  
+  .score-progress {
+    width: 100%;
+    height: 20px;
+  }
+  
+  /* You can also add some CSS to make it look better */
